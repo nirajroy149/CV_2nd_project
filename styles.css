@@ -119,6 +119,7 @@ a:hover{
     width: 50%;
     margin: auto;
     margin-bottom: 50px;
+    line-height: 2;
 }
 .btn {
     background: #3498db;
